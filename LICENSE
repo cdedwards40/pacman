@@ -1,29 +1,6 @@
-# PacMen
-
-A game where the user can add multiple PacMen and watch them bounce around the window.
-
-## Installation
-
-1. Simply clone the repository
-2. Open the file [index.html](index.html) in your browser
-
-## Usage
-
-Click the "Add PacMan" button to add additional PacMen in the window (this will work when the game is running as well). Click "Start Game" to start the PacMen moving around the window.
-
-## Support
-
-Use this program at your own risk. If it does not behave correctly, challenge yourself to find the issues and share your fixes with the rest of the community!
-
-## Roadmap
-
-There may be periodic updates to improve or refactor the code behind this program.
-
-## License
-
 MIT License
 
-Copyright (c) [2023] [Chris Edwards]
+Copyright (c) 2024 cdedwards40
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
