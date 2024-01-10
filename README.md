@@ -1,6 +1,6 @@
 # PacMen
 
-A game where the user can add multiple PacMen and watch them bounce around the window.
+A game where the user can add multiple PacMen and watch them bounce both vertically and horizontally around the window.
 
 ## Installation
 
